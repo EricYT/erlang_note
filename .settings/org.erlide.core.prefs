@@ -4,4 +4,4 @@ external_includes=
 external_modules=
 include_dirs=
 output_dir=ebin
-source_dirs=
+source_dirs=src;src/receive_example;
